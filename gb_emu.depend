@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609266752 source:/home/smellymoo/Dropbox/Projects/c++/gb_emu/main.cpp
+	<iostream>
+	"emu.h"
+
+1608849493 /home/smellymoo/Dropbox/Projects/c++/gb_emu/emu.h
+
+1609269226 source:/home/smellymoo/Dropbox/Projects/c++/gb_emu/emu.cpp
+	<cstdint>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"emu.h"
+
